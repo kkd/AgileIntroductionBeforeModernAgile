@@ -16,15 +16,19 @@
 
 +++
 
-### Agile2008に共に参加し、登壇した仲間！！
+**Agile2008に共に参加し、登壇し、世界の開発者に発表した仲間！！**
 
 愛媛に来てくれて、ありがとうございます！！
 
-**詳しくは以下参照**
+![Agile2008](https://u214375.dl.dropboxusercontent.com/u/214375/images/agile2008_photo.png)
 
-* InfoQの記事 ([1](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_1),[2](
++++
+
+### 詳しくは以下参照（ｗ ###
+
+* Agile2008に関するInfoQの記事 ([1](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_1),[2](
 https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2),[3](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_3))
-* [Agile2008の発表の時のスライド](https://www.slideshare.net/kkd/xp2008-agile20082-presentation)
+* [Agile2008のレポート](https://www.slideshare.net/kkd/xp2008-agile20082-presentation)
 
 ---
 
@@ -41,27 +45,57 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2),[3](https://www.info
 
 +++
 
-### アジャイル宣言って？
+**アジャイル宣言って？**
 
-私たちは、ソフトウェア開発の実践
-あるいは実践を手助けをする活動を通じて、
-よりよい開発方法を見つけだそうとしている。
-この活動を通して、私たちは以下の価値に至った。
+![agile manifesto](https://image.slidesharecdn.com/briefhistoryofagilemovement-160227022652/95/5-8-638.jpg?cb=1456548455)
 
 +++
 
-* プロセスやツールよりも個人と対話を、
-* 包括的なドキュメントよりも動くソフトウェアを、
-* 契約交渉よりも顧客との協調を、
-* 計画に従うことよりも変化への対応を、
+> 私たちは、ソフトウェア開発の実践
+> あるいは実践を手助けをする活動を通じて、
+> よりよい開発方法を見つけだそうとしている。
+> この活動を通して、私たちは以下の価値に至った。
 
 +++
 
-（前ページの内容）
-価値とする。すなわち、左記のことがらに価値があることを
-認めながらも、私たちは右記のことがらにより価値をおく。
+* プロセスやツールよりも**個人と対話**を、 |
+* 包括的なドキュメントよりも**動くソフトウェア**を、 |
+* 契約交渉よりも**顧客との協調**を、 |
+* 計画に従うことよりも**変化への対応**を、 |
+
++++
+
+>（前ページの内容）
+> を価値とする。すなわち、左記のことがらに価値があることを
+> 認めながらも、私たちは右記のことがらにより価値をおく。
 
 ---
+
+### なんでアジャイル宣言が生まれたのか？
+
+ここを押さえておかないと「言われてることを守るだけ」になってしまう
+
++++
+
+*本当に必要なものを顧客も知らない*
+
+*動くものを見ないと本当のフィードバックは得られない*
+
+*
+
+*問題意識(1) 使われないソフトウェア*
+
+![CHAOS Report 2001](https://agileexecutive.files.wordpress.com/2009/01/the-standish-group-2002-report.png?w=466&h=387)
+
+**ムダにお金をかけて作り込んでいる！！**
+
++++
+
+*問題意識(2) 不確実性の高いプロジェクト*
+
+
+
+*
 
 ### 具体的には何をする？
 
