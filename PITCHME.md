@@ -10,9 +10,9 @@
 
 ![kkd](https://cdn-images-1.medium.com/fit/c/120/120/1*oITgiKFXKPhYzpALU3Z-rw.png)
 
-- ゼンソー代表 http://zensow.jp |
+- ゼンソー代表  http://zensow.jp |
 - Agile459 ファウンダー |
-- ウルトラランナー（100Kトレイルにチャレンジ！） |
+- ウルトラ(トレイル)ランナー |
 
 ---
 ### 今回のゲスト
