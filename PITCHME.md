@@ -45,7 +45,7 @@
 2001年にアジャイルソフトウェア開発宣言。
 ここで**アジャイルソフトウェア開発**という言葉が生まれました。
 
- http://agilemanifesto.org/iso/ja/manifesto.html
+http://agilemanifesto.org/iso/ja/manifesto.html
 
 +++
 
@@ -134,6 +134,16 @@
 - アジャイルなプラクティスや |
 - スクラムのようなフレームワークや |
 - アジャイルマニフェストよりも |
-- 大事なことは |
+- 大事なことは、 |
 - **自分たちの現場に適した** |
 - **よりよいやり方を探し学び続けること** |
+
+---
+### 使わせて頂いた画像
+
+- AgileManifesto日本語版  
+  - https://www.slideshare.net/fkino/brief-history-of-agile-movement
+- Visual Agile manifesto
+  - http://www.lynnecazaly.com.au/the-visual-agile-manifesto/
+- Scrum Overview - Anime version
+  - http://scrumprimer.org/anime
