@@ -8,7 +8,7 @@
 ---
 ### WHO AM I?
 
-![kkd](https://u214375.dl.dropboxusercontent.com/u/214375/images/profile2017.jpg)
+![kkd](https://cdn-images-1.medium.com/fit/c/120/120/1*oITgiKFXKPhYzpALU3Z-rw.png)
 
 - ゼンソー代表 http://zensow.jp |
 - Agile459 ファウンダー |
