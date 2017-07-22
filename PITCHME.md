@@ -116,25 +116,19 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](htt
 * できるところから**アジャイルなプラクティス**をはじめる |
 
 +++
-
-**スクラム**
-
 ![ScrumPrimer](http://scrumprimer.org/overview/anime_scrum_overview_green.png)
 
 (http://scrumprimer.org/overview/anime_scrum_overview_green.png)
 
 +++
-
 **アジャイルプラクティス**　をできるところからはじめる
 
 [IPAのアジャイルプラクティスリファレンスガイド](http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html)を参考に、自分の現場で困っている・役立ちそうなところから始める
 
 +++
-
 ![Agile Practice Reference Guide](https://u214375.dl.dropboxusercontent.com/u/214375/images/agilepractice.png)
 
 ---
-
 ### 最後に
 
 プラクティスとか、マニフェストとかより大事なことは？
