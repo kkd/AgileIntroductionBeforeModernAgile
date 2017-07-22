@@ -49,6 +49,10 @@
 
 +++
 
+![Risk](https://u214375.dl.dropboxusercontent.com/u/214375/images/risk.png)
+
++++
+
 **アジャイルソフトウェア開発宣言**
 
 ![agile manifesto](https://image.slidesharecdn.com/briefhistoryofagilemovement-160227022652/95/5-8-638.jpg?cb=1456548455)
