@@ -1,14 +1,20 @@
 ## モダンアジャイルの前に
 ## アジャイル入門
 
-### はじめに
+懸田　剛（かけだ　たけし）
 
-* 懸田　剛（かけだ　たけし）
-* ゼンソー 代表
-* Agile459 ファウンダー
+[@kkd](https://twitter.com/kkd)
 
 ---
+### WHO AM I?
 
+![kkd](https://u214375.dl.dropboxusercontent.com/u/214375/images/profile2017.jpg)
+
+- ゼンソー代表 http://zensow.jp |
+- Agile459 ファウンダー |
+- ウルトラランナー（100Kトレイルにチャレンジ！） |
+
+---
 ### 今回のゲスト
 
 安藤さん![Ando](https://c.s-microsoft.com/ja-jp/CMSImages/img_do01_01.png?version=33c7a70c-01ad-61ed-2d42-a1a0816b266b)
@@ -27,8 +33,8 @@
 
 ### 詳しくは以下参照（ｗ ###
 
-* Agile2008に関するInfoQの記事 ([1](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_1),[2](
-https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2),[3](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_3))
+* Agile2008に関するInfoQの記事 ( [1](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_1), [2](
+https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [3](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_3) )
 * [Agile2008のレポート](https://www.slideshare.net/kkd/xp2008-agile20082-presentation)
 
 ---
