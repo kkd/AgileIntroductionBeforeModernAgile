@@ -112,13 +112,11 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](htt
 
 ### どうやってはじめるの？
 
-* **スクラム** |
-* できるところから**アジャイルなプラクティス**をはじめる |
+- **スクラム**ではじめる |
+- できるところから**アジャイルなプラクティス**をはじめる |
 
 +++
 ![ScrumPrimer](http://scrumprimer.org/overview/anime_scrum_overview_green.png)
-
-(http://scrumprimer.org/overview/anime_scrum_overview_green.png)
 
 +++
 **アジャイルプラクティス**　をできるところからはじめる
@@ -131,12 +129,13 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](htt
 ---
 ### 最後に
 
-プラクティスとか、マニフェストとかより大事なことは？
+プラクティスとか、マニフェストとかより大事なことは
+
+**自分たちの現場に適した、よりやり方を模索し続けること** です。
 
 +++
 
-**自分たちの現場に適した、よりやり方を模索し続けること**
 
-→ これがModern Agileにつながります。
+**アジャイルについて、聞きたいことがあれば、話しかけてください！！**
 
----
+おしまい。
