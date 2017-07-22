@@ -56,8 +56,6 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](htt
 
 ![agile manifesto](https://image.slidesharecdn.com/briefhistoryofagilemovement-160227022652/95/5-8-638.jpg?cb=1456548455)
 
-2001年、ソルトレイクにて、開発方法論者が集まり合意した。
-
 +++
 
 - プロセスやツールよりも **「個人」と「対話」** を、 |
@@ -67,7 +65,7 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](htt
 
 +++
 
-プロセスやツールよりも **「個人」と「対話」**
+#### プロセスやツールよりも **「個人」と「対話」**
 
 - ひとりひとりが考え |
 - 対話によってアイデアを交換し |
@@ -75,7 +73,7 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](htt
 
 +++
 
-包括的なドキュメントよりも **動くソフトウェア**
+#### 包括的なドキュメントよりも **動くソフトウェア**
 
 - 動くソフトウェアを作ってはじめてわかることがある、 |
 - 本当に必要なことを明らかにして、 |
@@ -83,7 +81,7 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](htt
 
 +++
 
-契約交渉よりも **顧客との協調**
+#### 契約交渉よりも **顧客との協調**
 
 - 目的を達成するために、 |
 - 顧客との関係に何が必要かを考え、 |
@@ -91,7 +89,7 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](htt
 
 +++
 
-計画に従うことよりも **変化への対応**
+#### 計画に従うことよりも **変化への対応**
 
 - 不確実性という現実を見つめて |
 - 変化を受け入れるために、 |
@@ -110,6 +108,7 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](htt
 - 目的を達成するために、必要・重要なものから実現していく |
 - 個人のタスクではなく、チームのタスクをこなす |
 
+---
 
 ### どうやってはじめるの？
 
@@ -132,6 +131,8 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](htt
 
 +++
 
+![Agile Practice Reference Guide](https://u214375.dl.dropboxusercontent.com/u/214375/images/agilepractice.png)
+
 ---
 
 ### 最後に
@@ -140,7 +141,7 @@ https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](htt
 
 +++
 
-**思考停止せず、自分たちのよりよりやり方を模索し続けること**
+**自分たちの現場に適した、よりやり方を模索し続けること**
 
 → これがModern Agileにつながります。
 
