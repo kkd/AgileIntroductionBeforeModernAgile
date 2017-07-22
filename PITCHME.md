@@ -25,17 +25,14 @@
 
 **Agile2008に共に参加し、登壇し、世界の開発者に発表した仲間！！**
 
-愛媛に来てくれて、ありがとうございます！！
-
 ![Agile2008](https://u214375.dl.dropboxusercontent.com/u/214375/images/agile2008_photo.png)
 
 +++
 
-### 詳しくは以下参照（ｗ ###
+### 詳しくは以下参照 ###
 
-- Agile2008に関するInfoQの記事 ( [レポート1](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_1), [レポート2](
-https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_3) )
-- [Agile2008のレポート](https://www.slideshare.net/kkd/xp2008-agile20082-presentation)
+* Agile2008に関するInfoQの記事 ( [レポート1](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_1), [レポート2](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_2), [レポート3](https://www.infoq.com/jp/articles/agile2008_teamgoyattom_3) )
+* [Agile2008のレポート](https://www.slideshare.net/kkd/xp2008-agile20082-presentation)
 
 ---
 
