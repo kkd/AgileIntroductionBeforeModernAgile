@@ -116,9 +116,10 @@
 ![ScrumPrimer](http://scrumprimer.org/overview/anime_scrum_overview_green.png)
 
 +++
-**アジャイルプラクティス**　をできるところからはじめる
+**アジャイルなプラクティス**をできるところから
 
-[IPAのアジャイルプラクティスリファレンスガイド](http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html)を参考に、自分の現場で困っている・役立ちそうなところから始める
+* [IPAのアジャイルプラクティスリファレンスガイド](http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html)を参考にする
+* 自分の現場で困っている・役立ちそうなところから始める
 
 +++
 ![Agile Practice Reference Guide](https://u214375.dl.dropboxusercontent.com/u/214375/images/agilepractice.png)
